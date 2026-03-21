@@ -1,2 +1,3 @@
-# simple-analytics-dashboard-zebg
-A repository to test GitHub automation for issue management
+# Simple Analytics Dashboard Zebg
+
+A repository to test GitHub automation for issue management.
